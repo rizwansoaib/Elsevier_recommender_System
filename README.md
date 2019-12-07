@@ -2,4 +2,4 @@
 
 Crawler and search engine for Journals and academic article  reasearch paper.
 
-Recommender System 
+Recommender System  Cosine Similarity
